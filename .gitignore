@@ -1,0 +1,29 @@
+# Unity
+/[Ll]ibrary/
+/Temp/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/.vs/
+
+# Visual Studio / Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.vsconfig
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Packages
+Packages/package-lock.json
+
+# Asset Store Tools
+Assets/AssetStoreTools/
